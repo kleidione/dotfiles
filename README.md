@@ -1,5 +1,5 @@
- #dotfiles
-* Arquivos de configração openbox.
+# DOTFILES
+# Arquivos de configurações do openbox.
 * git clone https:github.com/kleidione/dotfiles.git
 * cd dotfiles
 * tar -xvzf dotfiles.tar.gz
