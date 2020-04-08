@@ -1,4 +1,4 @@
-* dotfiles
+ #dotfiles
 * Arquivos de configração openbox.
 * git clone https:github.com/kleidione/dotfiles.git
 * cd dotfiles
