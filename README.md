@@ -4,5 +4,5 @@
 * cd dotfiles
 * tar -xvzf dotfiles.tar.gz
 * sh install.sh && exit
-<p align="center"><img src="https://github.com/kleidione/dotfiles/blob/master/captura.png"</p>
+<p align="center"><img src="https://github.com/kleidione/dotfiles/blob/master/Screenshot.png"</p>
   
