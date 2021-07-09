@@ -1,5 +1,4 @@
 # Dotfiles arch linux com openbox.
-
 * git clone https://github.com/kleidione/dots-openbox.git
 * cd dots
 * tar -xvzf dots.tar.gz
